@@ -152,6 +152,13 @@ The resource provides granular modular configuration split across `config/`:
       <li>Changed the <code>config/vehicles.lua</code>.</li>
     </ul>
   </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.0.2</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Improvements in RGB effects.</li>
+    </ul>
+  </details>
 </details>
 
 # COPYRIGHT
