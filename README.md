@@ -159,6 +159,14 @@ The resource provides granular modular configuration split across `config/`:
       <li>Improvements in RGB effects.</li>
     </ul>
   </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.0.3</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Added Presets & Multi-Map ECU system (Standalone & Roleplay);</li>
+      <li>General fixes and improvements.</li>
+    </ul>
+  </details>
 </details>
 
 # COPYRIGHT
